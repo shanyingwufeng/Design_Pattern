@@ -7,6 +7,10 @@ package com.sywf.adapter_pattern;
  */
 public interface IDataBaseOperation {
 
-    // 用户信息加密方法
-    void informationEncryption();
+    /**
+     * 用户信息加密
+     * @param info 用户口令、邮箱
+     * @return 加密后的用户口令、邮箱
+     */
+    String informationEncryption(String info);
 }
