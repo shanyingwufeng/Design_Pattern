@@ -1,4 +1,4 @@
-package com.sywf.adapter_pattern;
+package com.sywf.adapter_pattern_study;
 
 /**
  * Author: YiFan
