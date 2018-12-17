@@ -1,4 +1,4 @@
-package com.sywf.Adapter_Pattern;
+package com.sywf.adapter_pattern;
 
 /**
  * Author: YiFan
