@@ -3,7 +3,7 @@ package com.sywf.factory_pattern.simple_factory;
 /**
  * Author: YiFan
  * Date: 2018/12/7 12:41
- * Description:
+ * Description: 客户端-测试
  */
 public class CarTest {
 

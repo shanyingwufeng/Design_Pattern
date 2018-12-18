@@ -3,7 +3,7 @@ package com.sywf.factory_pattern.simple_factory;
 /**
  * Author: YiFan
  * Date: 2018/12/7 12:38
- * Description:
+ * Description: 具体产品角色-宝马汽车类
  */
 public class BMWCar extends Car {
 

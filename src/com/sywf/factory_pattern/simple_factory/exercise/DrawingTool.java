@@ -3,7 +3,7 @@ package com.sywf.factory_pattern.simple_factory.exercise;
 /**
  * Author: YiFan
  * Date: 2018/12/10 19:34
- * Description: 简单工厂模式-客户端
+ * Description: 客户端
  */
 public class DrawingTool {
 

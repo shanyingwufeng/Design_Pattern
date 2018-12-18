@@ -5,13 +5,12 @@ import com.sywf.factory_pattern.simple_factory.exercise.exception.UnSupportedSha
 /**
  * Author: YiFan
  * Date: 2018/12/10 19:27
- * Description: 简单工厂模式-工厂角色
+ * Description: 工厂角色
  */
 public class ShapeFactory {
 
-    // 声明创建形状的静态工厂方法
-     public static Shape createShape(String type)
-             throws UnSupportedShapeException {
+    // 静态工厂方法
+     public static Shape createShape(String type) throws UnSupportedShapeException {
          Shape shape;
          if ("圆形".equals(type)) {
              shape = new Round();

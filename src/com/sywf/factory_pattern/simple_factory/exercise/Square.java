@@ -3,7 +3,7 @@ package com.sywf.factory_pattern.simple_factory.exercise;
 /**
  * Author: YiFan
  * Date: 2018/12/10 19:25
- * Description: 简单工厂模式-产品角色
+ * Description: 具体产品角色
  */
 public class Square extends Shape {
 
