@@ -3,7 +3,7 @@ package com.sywf.adapter_pattern;
 /**
  * Author: YiFan
  * Date: 2018/12/17 22:42
- * Description:
+ * Description: 用户类
  */
 public class User {
 

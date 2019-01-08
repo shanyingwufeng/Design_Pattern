@@ -3,7 +3,7 @@ package com.sywf.adapter_pattern;
 /**
  * Author: YiFan
  * Date: 2018/12/17 12:30
- * Description:
+ * Description: 适配器类
  */
 public class EncryptionAdapter implements IDataBaseOperation {
 

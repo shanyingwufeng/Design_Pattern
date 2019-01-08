@@ -5,7 +5,7 @@ import com.sywf.adapter_pattern.util.MD5Util;
 /**
  * Author: YiFan
  * Date: 2018/12/17 12:31
- * Description:
+ * Description: 适配者类
  */
 public class Adaptee {
 
